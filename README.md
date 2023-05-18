@@ -2,6 +2,11 @@
 Live Demo https://a6dubey-taskboard.netlify.app/
 
 
+# 'Sample Login Credentials':
+     Username: john123
+     password: john12345
+
+
 # 'Task Board'
 This is a simple web application that have create list title, tasks and etc. It also demonstrates dragging and dropping of tasks from one list to another
 
